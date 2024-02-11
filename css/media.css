@@ -46,3 +46,37 @@
 		font-size: 50px;
 	}
 }
+@media screen and (max-width: 1040px) {
+	.choices .sec_tit {
+		width: 820px;
+		font-size: 44px;
+		line-height: 55.8px;
+		margin-bottom: 63px;
+	}
+	.main .main-in {
+		margin-left: 42px;
+		margin-top: 240px;
+	}
+	.sec_tit {
+		width: 820px;
+		font-size: 46px;
+		line-height: 55.8px;
+	}
+	.main .sec_p {
+		font-size: 12px;
+		line-height: 12px;
+		margin-top: 14px;
+		margin-bottom: 10px;
+	}
+	t {
+		width: 820px;
+		font-size: 46px;
+		line-height: 55.8px;
+	}
+	.feedback {
+		position: absolute;
+		top: 148%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+	}
+}
