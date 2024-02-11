@@ -141,3 +141,7 @@ section {
 	margin-top: 8px;
 	flex-wrap: nowrap;
 }
+.logotip img {
+	width: 100px;
+	margin-right: 29px;
+}
