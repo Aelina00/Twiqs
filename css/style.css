@@ -196,3 +196,10 @@ header span {
 	left: 25%;
     top: 128%;
 }
+.feedback_txt {
+	color: rgb(134, 137, 122);
+	font-size: 19px;
+	font-weight: 400;
+	line-height: 34.56px;
+	text-align: left;
+}
