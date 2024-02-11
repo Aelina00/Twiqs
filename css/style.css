@@ -315,3 +315,23 @@ bottom: 318.34px;
 .low-img{
 	display: none;
 }
+.updates{
+	max-width: 1440px;
+}
+.updates .up_tit{
+position: absolute;
+width: 634px;
+height: 52px;
+left: 89.59px;
+right: 136.59px;
+top: 40.34px;
+bottom: 201.91px;
+color: rgb(151, 171, 74);
+font-family: Roboto;
+font-size: 40px;
+font-weight: 700;
+line-height: 51.84px;
+letter-spacing: 0%;
+text-align: center;
+margin: 0 auto;
+}
