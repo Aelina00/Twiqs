@@ -148,3 +148,12 @@ section {
 .menu {
 	margin-top: 30px;
 }
+.menu a {
+	margin-right: 55px;
+	color: rgb(217, 110, 0);
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 18px;
+	letter-spacing: 0%;
+	text-align: left;
+}
