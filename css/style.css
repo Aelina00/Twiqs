@@ -187,3 +187,12 @@ header span {
 	margin-top: 255px;
 	position: relative;
 }
+.feedback {
+	justify-content: space-between;
+	background: rgb(245, 238, 230);
+	padding: 20px;
+	width: 645px;
+	position: absolute;
+	left: 25%;
+    top: 128%;
+}
