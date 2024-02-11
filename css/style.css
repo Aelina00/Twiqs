@@ -166,3 +166,10 @@ header span {
 	background-repeat: no-repeat;
 	background-position: center;
 }
+.sec_tit {
+	font-size: 65px;
+	font-weight: 400;
+	line-height: 77.76px;
+	text-align: left;
+	width: 620px;
+}
