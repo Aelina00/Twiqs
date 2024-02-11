@@ -30,3 +30,19 @@
 		justify-content: center;
 	}
 }
+@media screen and (max-width: 1200px) {
+	.sec_tit {
+		width: 890px;
+		font-size: 50px;
+	}
+	.main .sec_p {
+		font-size: 12px;
+		line-height: 14px;
+		margin-top: 16px;
+		margin-bottom: 12px;
+	}
+	t {
+		width: 890px;
+		font-size: 50px;
+	}
+}
