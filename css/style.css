@@ -203,3 +203,8 @@ header span {
 	line-height: 34.56px;
 	text-align: left;
 }
+.icons img {
+	width: 22px;
+	height: 22px;
+	margin-right: 6px;
+}
