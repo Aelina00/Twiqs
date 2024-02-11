@@ -1,0 +1,9 @@
+@media screen and (max-width: 1380px) {
+	.feedback {
+		position: absolute;
+		top: 138%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		padding: 18px;
+	}
+}
