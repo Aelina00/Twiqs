@@ -128,3 +128,41 @@
 		padding: 0px;
 	}
 }
+@media screen and (max-width: 700px) {
+	.choices .sec_tit {
+		width: 490px;
+		font-size: 28px;
+		line-height: 40.8px;
+		margin-bottom: 46px;
+	}
+	.main .main-in {
+		margin-left: 38px;
+		margin-top: 150px;
+	}
+	.sec_tit {
+		width: 384px;
+		font-size: 34px;
+		line-height: 48.8px;
+	}
+	t {
+		width: 384px;
+		font-size: 34px;
+		line-height: 48.8px;
+	}
+
+	.feedback_txt {
+		color: rgb(134, 137, 122);
+		font-size: 12px;
+		font-weight: 400;
+		line-height: 24.56px;
+		text-align: left;
+	}
+
+	.feedback {
+		max-width: 480px;
+		padding: 12px;
+	}
+	.choices {
+		margin-top: 0px;
+	}
+}
