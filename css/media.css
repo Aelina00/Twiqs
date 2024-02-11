@@ -166,3 +166,25 @@
 		margin-top: 0px;
 	}
 }
+@media screen and (max-width: 600px) {
+	.feedback_txt {
+		color: rgb(134, 137, 122);
+		font-size: 12px;
+		font-weight: 400;
+		line-height: 20.56px;
+		text-align: left;
+	}
+	.feedback {
+		max-width: 440px;
+		padding: 10px;
+	}
+	.menu a {
+		margin-right: 26px;
+		font-size: 16px;
+		line-height: 14px;
+	}
+	.logotip img{
+		display: none;
+	}
+	
+}
