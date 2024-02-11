@@ -157,3 +157,7 @@ section {
 	letter-spacing: 0%;
 	text-align: left;
 }
+header span {
+	margin-top: 14px;
+	margin-right: 23px;
+}
