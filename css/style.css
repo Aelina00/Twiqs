@@ -182,3 +182,8 @@ header span {
 	margin-top: 25px;
 	margin-bottom: 22px;
 }
+.main .main-in {
+	margin-left: 75px;
+	margin-top: 255px;
+	position: relative;
+}
