@@ -80,3 +80,25 @@
 		transform: translate(-50%, -50%);
 	}
 }
+@media screen and (max-width: 860px) {
+	.choices .sec_tit {
+		width: 688px;
+		font-size: 40px;
+		line-height: 50.8px;
+		margin-bottom: 50px;
+	}
+	.main .main-in {
+		margin-left: 40px;
+		margin-top: 200px;
+	}
+	.sec_tit {
+		width: 384px;
+		font-size: 40px;
+		line-height: 50.8px;
+	}
+	t {
+		width: 384px;
+		font-size: 40px;
+		line-height: 50.8px;
+	}
+}
