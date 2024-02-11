@@ -161,3 +161,8 @@ header span {
 	margin-top: 14px;
 	margin-right: 23px;
 }
+.background {
+	background-image: url(../img/mainbg.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+}
