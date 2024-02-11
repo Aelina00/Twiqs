@@ -225,3 +225,9 @@ t {
 .choices {
 	margin-top: 183px;
 }
+.white_btn {
+	max-width: 200px;
+	background-color: #fff;
+	color: rgb(151, 171, 74);
+	margin: 0 auto;
+}
