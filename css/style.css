@@ -74,13 +74,13 @@ textarea {
 body {
 	font-size: 14px;
 	line-height: 19px;
-	color: #242424;
+	color: rgb(151, 171, 74);
 	width: 100%;
 	font-family: 'Manrope', arial, sans-serif;
 }
 
 .container {
-	max-width: 1325px;
+	max-width: 1440px;
 	width: 100%;
 	min-width: 320px;
 	margin: 0 auto;
@@ -112,25 +112,27 @@ section {
 	border: 1px solid rgb(151, 171, 74);
 	border-radius: 40px;
 	background: rgb(151, 171, 74);
-	color:rgb(252, 248, 243);
+	color: rgb(252, 248, 243);
 	font-size: 15px;
 	font-weight: 400;
 	line-height: 25.2px;
 	text-align: left;
-	text-transform: uppercase;
 	height: 26px;
 	display: flex;
 	flex-wrap: wrap;
 	align-items: center;
 	justify-content: center;
+	max-width: 177px;
+	max-height: 47px;
 	width: 100%;
-	padding: 9px 12px 78px 28px;
+	padding: 9px 42px 35px 20px;
 	transition: 0.3s;
 }
 
 .btn:hover {
 	box-shadow: 0px 6px 5px 2px #836A36;
 }
+
 .flex {
 	display: flex;
 	flex-wrap: wrap;
