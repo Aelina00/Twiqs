@@ -220,4 +220,8 @@ t {
 	margin: 0 auto;
 	font-size: 54px;
 	line-height: 64.8px;
+	margin-bottom: 63px;
+}
+.choices {
+	margin-top: 183px;
 }
