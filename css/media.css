@@ -7,3 +7,26 @@
 		padding: 18px;
 	}
 }
+@media screen and (max-width: 1030px) {
+	t {
+		width: 720px;
+		font-size: 42px;
+	}
+
+	.sec_tit {
+		width: 720px;
+		font-size: 42px;
+	}
+	.main .sec_p {
+		font-size: 14px;
+		line-height: 16px;
+		margin-top: 20px;
+		margin-bottom: 18px;
+	}
+	.choices .sec_tit {
+		width: 720px;
+		font-size: 42px;
+		margin: 0 auto;
+		justify-content: center;
+	}
+}
