@@ -173,3 +173,12 @@ header span {
 	text-align: left;
 	width: 620px;
 }
+.main .sec_p {
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 18px;
+	text-align: left;
+	text-transform: uppercase;
+	margin-top: 25px;
+	margin-bottom: 22px;
+}
