@@ -136,3 +136,8 @@ section {
 	flex-wrap: wrap;
 	justify-content: space-between;
 }
+
+.logotip {
+	margin-top: 8px;
+	flex-wrap: nowrap;
+}
