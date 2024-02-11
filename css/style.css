@@ -210,3 +210,14 @@ header span {
 	height: 22px;
 	margin-right: 6px;
 }
+t {
+	font-size: 55px;
+}
+
+.choices  .sec_tit {
+	width: 930px;
+	text-align: center;
+	margin: 0 auto;
+	font-size: 54px;
+	line-height: 64.8px;
+}
