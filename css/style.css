@@ -335,3 +335,20 @@ letter-spacing: 0%;
 text-align: center;
 margin: 0 auto;
 }
+.low_tit{
+	position: absolute;
+	width: 231px;
+	height: 52px;
+	left: 295.59px;
+	right: 337.59px;
+	top: 92.34px;
+	bottom: 149.91px;
+	color: rgb(151, 171, 74);
+	font-family: Roboto;
+	font-size: 39px;
+	font-weight: 700;
+	line-height: 51.84px;
+	letter-spacing: 0%;
+	text-align: center;
+	margin: 0 auto;
+	}
