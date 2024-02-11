@@ -238,3 +238,10 @@ t {
 .bottom-img {
 	position: relative;
 }
+.left {
+	margin: 0 auto;
+	position: relative;
+}
+.right {
+	position: relative;
+}
