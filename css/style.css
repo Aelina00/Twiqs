@@ -310,16 +310,72 @@ t {
 	line-height: 35px;
 	letter-spacing: 0em;
 	text-align: center;
-  margin: 10px;
+	margin: 10px;
 }
 
-.sell-card_price{
+.sell-card_price {
 	font-family: 'Roboto';
-font-size: 16px;
-font-weight: 400;
-line-height: 29px;
-text-align: center;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 29px;
+	text-align: center;
 
+}
+
+.gift-wrap {
+	display: flex;
+	gap: 150px;
+	background-color: #DFBF9E;
+}
+
+.gift-img {
+	width: 720px;
+	height: 800px;
+}
+
+.gift-letter {
+	width: 576px;
+	height: 571px;
+}
+
+.stars {
+	width: 152px;
+	height: 24px;
+	position: relative;
+	left: 200px;
+	top: 150px;
+	text-align: center;
+}
+
+.gift_txt {
+	text-align: center;
+	font-family: 'Rouge Script';
+	font-size: 43px;
+	font-weight: 400;
+	line-height: 70px;
+	letter-spacing: 0em;
+	text-align: center;
+  position: relative;
+	top: 220px;
+	color: #8E9373;
+}
+
+.slide{
+	position: relative;
+	top: 250px;
+}
+
+
+.tirsah {
+	text-align: center;
+	font-family: 'Roboto';
+	font-size: 13px;
+	font-weight: 400;
+	line-height: 14px;
+	text-transform: uppercase;
+  position: relative;
+	top: 300px;
+	color: #8E9373;
 }
 
 .white_btn {
