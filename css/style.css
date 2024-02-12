@@ -274,6 +274,19 @@ color: #212806CC;
 position: relative;
 }
 
+.sell-btn{
+ font-size: 15px;
+ padding: 0 10px  40px;
+ position: relative;
+ background-color: #81972C;
+ top: 200px;
+}
+
+.sell-btn:hover{
+  background-color: #fff;
+	color: #81972C;
+}
+
 .white_btn {
 	max-width: 200px;
 	background-color: #fff;
