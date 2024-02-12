@@ -246,6 +246,11 @@ t {
 	display: flex;
 }
 
+.sellers-info{
+ width: 342px;
+ height: 502px;
+}
+
 .sellers-tit {
 	font-family: 'Roboto';
 	font-size: 40px;
@@ -256,6 +261,18 @@ t {
 	color:  #81972C;
 	position: relative;
 	bottom: 20px;
+}
+
+.sellers-subtit{
+	font-family: 'Roboto';
+font-size: 15px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+color: #212806CC;
+position: relative;
+
 }
 
 .white_btn {
