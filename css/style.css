@@ -246,9 +246,9 @@ t {
 	display: flex;
 }
 
-.sellers-info{
- width: 342px;
- height: 502px;
+.sellers-info {
+	width: 342px;
+	height: 502px;
 }
 
 .sellers-tit {
@@ -258,45 +258,68 @@ t {
 	line-height: 52px;
 	letter-spacing: 0em;
 	text-align: left;
-	color:  #81972C;
+	color: #81972C;
 	position: relative;
 	bottom: 15px;
 }
 
-.sellers-subtit{
+.sellers-subtit {
 	font-family: 'Roboto';
-font-size: 15px;
-font-weight: 400;
-line-height: 29px;
-letter-spacing: 0em;
-text-align: left;
-color: #212806CC;
-position: relative;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 29px;
+	letter-spacing: 0em;
+	text-align: left;
+	color: #212806CC;
+	position: relative;
 }
 
-.sell-btn{
- font-size: 15px;
- padding: 0 10px  40px;
- position: relative;
- background-color: #81972C;
- top: 200px;
+.sell-btn {
+	font-size: 15px;
+	padding: 11px 10px 40px;
+	position: relative;
+	background-color: #81972C;
+	top: 280px;
 }
 
-.sell-btn:hover{
-  background-color: #fff;
+.sell-btn:hover {
+	background-color: #fff;
 	color: #81972C;
 }
 
-.sellers-card-wrap{
+.sellers-card-wrap {
 	width: 1026px;
 	height: 502px;
-	position: relative;
-	left: 180px;
 }
 
-.sell-card{
+.sell-card {
 	width: 328px;
 	height: 309px;
+}
+
+.sell-card_tit {
+	text-align: center;
+	text-transform: uppercase;
+	margin: 15px;
+}
+
+.sell-card_name {
+	font-family: 'Roboto';
+	font-size: 23px;
+	font-weight: 400;
+	line-height: 35px;
+	letter-spacing: 0em;
+	text-align: center;
+  margin: 10px;
+}
+
+.sell-card_price{
+	font-family: 'Roboto';
+font-size: 16px;
+font-weight: 400;
+line-height: 29px;
+text-align: center;
+
 }
 
 .white_btn {
