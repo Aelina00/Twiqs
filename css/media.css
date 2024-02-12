@@ -23,3 +23,93 @@
 		max-width: 100%;
 	}
 }
+
+/* Для мобильных устройств (максимальная ширина 767px) */
+@media only screen and (max-width: 767px) {
+  .sellers {
+    padding: 20px;
+  }
+
+  .sellers-info {
+    text-align: center;
+  }
+
+  .sell-cards {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .sell-card {
+    width: 100%;
+  }
+}
+
+/* Для планшетов и небольших устройств (минимальная ширина 768px) */
+@media only screen and (min-width: 768px) {
+  .sellers-card-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .sell-cards {
+    width: calc(33.33% - 20px); /* чтобы уместить три карточки в строку */
+  }
+
+  .sell-card {
+    width: 100%;
+  }
+}
+
+/* Для устройств с шириной экрана более 992px */
+@media only screen and (min-width: 992px) {
+  .sellers-card-wrap {
+    padding: 0 20px;
+  }
+}
+
+
+/* Для мобильных устройств (максимальная ширина 767px) */
+@media only screen and (max-width: 767px) {
+  .sellers {
+    padding: 20px;
+  }
+
+  .sellers-info {
+    text-align: center;
+  }
+
+  .sell-cards {
+    width: 100%;
+    margin-bottom: 20px;
+  }
+
+  .sell-card {
+    width: 100%;
+  }
+}
+
+/* Для планшетов и небольших устройств (минимальная ширина 768px) */
+@media only screen and (min-width: 768px) {
+  .sellers-card-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .sell-cards {
+    width: calc(33.33% - 20px); /* чтобы уместить три карточки в строку */
+  }
+
+  .sell-card {
+    width: 100%;
+  }
+}
+
+/* Для устройств с шириной экрана более 992px */
+@media only screen and (min-width: 992px) {
+  .sellers-card-wrap {
+    padding: 0 20px;
+  }
+}
+

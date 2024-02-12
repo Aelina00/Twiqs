@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Reenie+Beanie&family=Roboto+Condensed&family=Rouge+Script&display=swap');
+
 html,
 body {
 	height: 100%;
@@ -143,13 +145,16 @@ section {
 	margin-top: 8px;
 	flex-wrap: nowrap;
 }
+
 .logotip img {
 	width: 100px;
 	margin-right: 29px;
 }
+
 .menu {
 	margin-top: 30px;
 }
+
 .menu a {
 	margin-right: 55px;
 	color: rgb(217, 110, 0);
@@ -159,15 +164,18 @@ section {
 	letter-spacing: 0%;
 	text-align: left;
 }
+
 header span {
 	margin-top: 14px;
 	margin-right: 23px;
 }
+
 .background {
 	background-image: url(../img/mainbg.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 }
+
 .sec_tit {
 	font-size: 65px;
 	font-weight: 400;
@@ -175,6 +183,7 @@ header span {
 	text-align: left;
 	width: 620px;
 }
+
 .main .sec_p {
 	font-size: 16px;
 	font-weight: 400;
@@ -184,11 +193,13 @@ header span {
 	margin-top: 25px;
 	margin-bottom: 22px;
 }
+
 .main .main-in {
 	margin-left: 44px;
 	margin-top: 255px;
 	position: relative;
 }
+
 .feedback {
 	justify-content: space-between;
 	background: rgb(245, 238, 230);
@@ -196,8 +207,9 @@ header span {
 	width: 645px;
 	position: absolute;
 	left: 25%;
-    top: 128%;
+	top: 128%;
 }
+
 .feedback_txt {
 	color: rgb(134, 137, 122);
 	font-size: 19px;
@@ -205,16 +217,18 @@ header span {
 	line-height: 34.56px;
 	text-align: left;
 }
+
 .icons img {
 	width: 22px;
 	height: 22px;
 	margin-right: 6px;
 }
+
 t {
 	font-size: 55px;
 }
 
-.choices  .sec_tit {
+.choices .sec_tit {
 	width: 930px;
 	text-align: center;
 	margin: 0 auto;
@@ -222,12 +236,173 @@ t {
 	line-height: 64.8px;
 	margin-bottom: 63px;
 }
+
 .choices {
 	margin-top: 133px;
 }
+
 .white_btn {
 	max-width: 200px;
 	background-color: #fff;
 	color: rgb(151, 171, 74);
 	margin: 0 auto;
 }
+
+
+.sellers {
+	display: flex;
+}
+
+.sellers-info {
+	width: 342px;
+	height: 502px;
+}
+
+.sellers-tit {
+	font-family: 'Roboto';
+	font-size: 40px;
+	font-weight: 400;
+	line-height: 52px;
+	text-align: left;
+	position: relative;
+	top: -1, 26px;
+}
+
+.sellers-subtit {
+	font-family: 'Roboto';
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 29px;
+	text-align: left;
+	position: relative;
+	top: 10px;
+	color: #212806CC;
+}
+
+.sell-btn {
+	position: relative;
+	top: 250px;
+	text-align: center;
+	width: 229px;
+	height: 47px;
+	padding: 0;
+	transition: .4s;
+}
+
+.sell-btn:hover{
+	background-color: #fff;
+	color: rgb(151, 171, 74);
+}
+
+
+.sellers-card-wrap {
+	display: flex;
+	width: 1026px;
+	height: 502.52px;
+	left: 414px;
+}
+
+.sell-card {
+	width: 328px;
+	height: 309px;
+	margin: 0 20px;
+}
+
+.sell-card_tit {
+	text-align: center;
+	text-transform: uppercase;
+	position: relative;
+	top: 10px;
+	font-family: 'Roboto';
+	font-size: 12px;
+	font-weight: 400;
+	line-height: 14px;
+}
+
+.sell-card_name{
+	font-family: 'Roboto';
+font-size: 24px;
+font-weight: 400;
+line-height: 35px;
+text-align: center;
+position: relative;
+top: 10px;
+}
+
+.sell-card_price{
+  font-family: 'Roboto';
+font-size: 16px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: center;
+	position: relative;
+	top: 10px;
+	color: #8E9373;
+}
+
+.gift-wrap{
+	display: flex;
+	gap: 50px;
+	background-color:#DFBF9E;
+	height: 800px;
+}
+
+.gift-letter{
+	width: 576px;
+height: 571.23px;
+
+}
+
+.gift_txt{
+	font-family: 'Rouge Script';
+font-size: 43px;
+font-weight: 400;
+line-height: 70px;
+letter-spacing: 0em;
+text-align: center;
+width: 420px;
+height: 350px;
+top: 84px;
+left: 150px;
+position: relative;
+color: #8E9373;
+}
+
+.gift-img{
+	width: 720px;
+	height: 800px;
+}
+
+.stars{
+	width: 152px;
+	height: 24px;
+	margin: 0 auto;
+	position: relative;
+	top: 50px;
+	left: 60px;
+}
+
+.slide{
+	width: 576px;
+	height: 40px;
+	margin: 0 auto;
+	position: relative;
+	top: 100px;
+	left: 60px;
+}
+
+.tirsah{
+	text-align: center;
+	position: relative;
+	top: 250px;
+	left: 60px;
+	font-family: 'Roboto';
+font-size: 13px;
+font-weight: 400;
+line-height: 14px;
+text-align: center;
+text-transform: uppercase;
+color: #8E9373;
+}
+
