@@ -260,7 +260,7 @@ t {
 	text-align: left;
 	color:  #81972C;
 	position: relative;
-	bottom: 20px;
+	bottom: 15px;
 }
 
 .sellers-subtit{
@@ -285,6 +285,18 @@ position: relative;
 .sell-btn:hover{
   background-color: #fff;
 	color: #81972C;
+}
+
+.sellers-card-wrap{
+	width: 1026px;
+	height: 502px;
+	position: relative;
+	left: 180px;
+}
+
+.sell-card{
+	width: 328px;
+	height: 309px;
 }
 
 .white_btn {
