@@ -249,7 +249,7 @@ t {
     position: absolute;
     width: 230px;
     height: 230px;
-    left: -1%;
+    left: 4%;
     top: -197.65999999999997px;
 }
 
@@ -257,17 +257,17 @@ t {
 	position: absolute;
 width: 288px;
 height: 391px;
-left: 0%;
+left: 6%;
 right: 77.78%;
-top: 116.09px;
+top: 121.09px;
 bottom: -7.09px;
 }
 
 .img_3 {
-	position: absolute;
+position: absolute;
 width: 331px;
 height: 326px;
-left: 10.73%;
+left: 15.73%;
 right: 63.73%;
 top: -75.91px;
 bottom: 249.91px;
@@ -277,7 +277,7 @@ bottom: 249.91px;
 	position: absolute;
 width: 230px;
 height: 304px;
-left: 32.87%;
+left: 36.87%;
 right: 49.38%;
 top: 160.09px;
 bottom: 35.91px;
@@ -287,7 +287,7 @@ bottom: 35.91px;
 	position: absolute;
 width: 108px;
 height: 151px;
-left: 53.63%;
+left: 55.63%;
 right: 38.04%;
 top: 30.66px;
 bottom: 318.34px;
@@ -297,7 +297,7 @@ bottom: 318.34px;
 	position: absolute;
 	width: 302px;
 	height: 338px;
-	left: 64.89%;
+	left: 65.89%;
 	right: 11.81%;
 	top: 116px;
 	bottom: 46px;
@@ -318,37 +318,37 @@ bottom: 318.34px;
 .updates{
 	max-width: 1440px;
 }
-.updates .up_tit{
-position: absolute;
-width: 634px;
-height: 52px;
-left: 89.59px;
-right: 136.59px;
-top: 40.34px;
-bottom: 201.91px;
-color: rgb(151, 171, 74);
-font-family: Roboto;
-font-size: 40px;
-font-weight: 700;
-line-height: 51.84px;
-letter-spacing: 0%;
-text-align: center;
-margin: 0 auto;
+.updates .up_tit {
+    position: absolute;
+    width: 634px;
+    height: 52px;
+    left: 89.59px;
+    right: 80.59px;
+    top: 1264.3400000000001px;
+    bottom: 201.91px;
+    color: rgb(151, 171, 74);
+    font-family: Roboto;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 51.84px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin: 0 auto;
 }
-.low_tit{
-	position: absolute;
-	width: 231px;
-	height: 52px;
-	left: 295.59px;
-	right: 337.59px;
-	top: 92.34px;
-	bottom: 149.91px;
-	color: rgb(151, 171, 74);
-	font-family: Roboto;
-	font-size: 39px;
-	font-weight: 700;
-	line-height: 51.84px;
-	letter-spacing: 0%;
-	text-align: center;
-	margin: 0 auto;
-	}
+.low_tit {
+    position: absolute;
+    width: 231px;
+    height: 52px;
+    left: 295.59px;
+    right: 283.59px;
+    top: 1316.3400000000001px;
+    bottom: 149.91px;
+    color: rgb(151, 171, 74);
+    font-family: Roboto;
+    font-size: 39px;
+    font-weight: 700;
+    line-height: 51.84px;
+    letter-spacing: 0%;
+    text-align: center;
+    margin: 0 auto;
+}
