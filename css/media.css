@@ -370,7 +370,7 @@
 }
 
 /* Для мобильных устройств (максимальная ширина 767px) */
-@media only screen and (max-width: 767px) {
+@media  screen and (max-width: 767px) {
   .sellers {
     padding: 20px;
   }
@@ -390,7 +390,7 @@
 }
 
 /* Для планшетов и небольших устройств (минимальная ширина 768px) */
-@media only screen and (min-width: 768px) {
+@media  screen and (min-width: 768px) {
   .sellers-card-wrap {
     display: flex;
     flex-wrap: wrap;
@@ -407,7 +407,7 @@
 }
 
 /* Для устройств с шириной экрана более 992px */
-@media only screen and (min-width: 992px) {
+@media  screen and (min-width: 992px) {
   .sellers-card-wrap {
     padding: 0 20px;
   }
@@ -415,7 +415,7 @@
 
 
 /* Для мобильных устройств (максимальная ширина 767px) */
-@media only screen and (max-width: 767px) {
+@media  screen and (max-width: 767px) {
   .sellers {
     padding: 20px;
   }
@@ -435,7 +435,7 @@
 }
 
 /* Для планшетов и небольших устройств (минимальная ширина 768px) */
-@media only screen and (min-width: 768px) {
+@media  screen and (min-width: 768px) {
   .sellers-card-wrap {
     display: flex;
     flex-wrap: wrap;
@@ -452,7 +452,7 @@
 }
 
 /* Для устройств с шириной экрана более 992px */
-@media only screen and (min-width: 992px) {
+@media  screen and (min-width: 992px) {
   .sellers-card-wrap {
     padding: 0 20px;
   }
