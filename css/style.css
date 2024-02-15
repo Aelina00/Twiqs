@@ -249,7 +249,7 @@ t {
     position: absolute;
     width: 230px;
     height: 230px;
-    left: 4%;
+    left: 5%;
     top: -197.65999999999997px;
 }
 
@@ -317,6 +317,7 @@ bottom: 318.34px;
 }
 .updates{
 	max-width: 1440px;
+	position: relative;
 }
 .updates .up_tit {
     position: absolute;
@@ -324,8 +325,7 @@ bottom: 318.34px;
     height: 52px;
     left: 89.59px;
     right: 80.59px;
-    top: 1264.3400000000001px;
-    bottom: 201.91px;
+	top: -158.65999999999985px;
     color: rgb(151, 171, 74);
     font-family: Roboto;
     font-size: 40px;
@@ -341,8 +341,7 @@ bottom: 318.34px;
     height: 52px;
     left: 295.59px;
     right: 283.59px;
-    top: 1316.3400000000001px;
-    bottom: 149.91px;
+	top: -105.65999999999985px;
     color: rgb(151, 171, 74);
     font-family: Roboto;
     font-size: 39px;
