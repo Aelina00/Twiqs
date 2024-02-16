@@ -132,9 +132,7 @@ section {
 	transition: 0.3s;
 }
 
-.btn:hover {
-	box-shadow: 0px 6px 5px 2px #836A36;
-}
+
 
 .flex {
 	display: flex;
@@ -304,7 +302,7 @@ r {
 	max-width: 232px;
 }
 
-.sell-btn:hover {
+.btn:hover {
 	background-color: #fff;
 	color: #81972C;
 }
