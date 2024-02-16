@@ -224,7 +224,17 @@ header span {
 	height: 22px;
 	margin-right: 6px;
 }
-
+.gift-section .icons img{
+margin-right: 10px;
+}
+.gift-section .icons{
+	margin-right: -25px;
+}
+.gift-section .icons{
+	margin-left: 56px;
+    justify-content: center;
+    margin-top: 113px
+}
 t {
 	font-size: 55px;
 }
@@ -340,11 +350,13 @@ r {
 	background-color: #DFBF9E;
 }
 
-.gift-img {
-	width: 720px;
+.gift-img img {
+	width: 576px;
 	height: 800px;
 }
-
+.icon{
+	background-image: url(../img/star.png);
+}
 .gift-letter {
 	width: 576px;
 	height: 571px;
@@ -368,21 +380,19 @@ r {
 }
 
 .gift_txt {
-	text-align: center;
 	font-family: 'Rouge Script';
 	font-size: 43px;
 	font-weight: 400;
 	line-height: 70px;
-	letter-spacing: 0em;
 	text-align: center;
-	position: relative;
-	top: 220px;
 	color: #8E9373;
+	width: 420px;
+    margin-top: 62px;
+    margin-left: 100px
 }
 
 .slide {
-	position: relative;
-	top: 250px;
+	margin-left: 32px;
 }
 
 
@@ -396,6 +406,8 @@ r {
 	position: relative;
 	top: 300px;
 	color: #8E9373;
+	margin-top: -224px;
+    margin-left: 66px;
 }
 
 .white_btn {
